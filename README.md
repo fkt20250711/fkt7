@@ -16,4 +16,4 @@
 
 此外，我们还鼓励用户评论、评分、分享影片，与其他影迷交流观看心得，共同发现更多优质影片。
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link](https://github.com/fkt20250711/fkt7 )</span>
